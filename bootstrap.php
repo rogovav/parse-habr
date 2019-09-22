@@ -1,6 +1,6 @@
 <?php
 
-require "simple_html_dom.php";
+require "lib/simple_html_dom.php";
 require "vendor/autoload.php";
 
 use Illuminate\Database\Capsule\Manager as Capsule;
