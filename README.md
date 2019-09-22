@@ -1,5 +1,5 @@
 # parse-habr
 
-git rm -r --cached myFolder
+composer require illuminate/database
 
 php database/posts.php
